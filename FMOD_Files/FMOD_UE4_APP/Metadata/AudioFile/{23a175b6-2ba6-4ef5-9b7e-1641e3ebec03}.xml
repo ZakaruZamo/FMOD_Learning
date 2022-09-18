@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{23a175b6-2ba6-4ef5-9b7e-1641e3ebec03}">
+		<property name="assetPath">
+			<value>Tutorial Things/AMBIENCE_SANNOHE_FOREST_WINTER_AIR.WAV</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>37.871746031746035</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{96a96245-c6d9-4c54-82a8-97d8b838dfef}</destination>
+		</relationship>
+	</object>
+</objects>

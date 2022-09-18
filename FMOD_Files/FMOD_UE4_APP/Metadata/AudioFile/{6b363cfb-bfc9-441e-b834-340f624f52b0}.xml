@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{6b363cfb-bfc9-441e-b834-340f624f52b0}">
+		<property name="assetPath">
+			<value>Tutorial Things/WIND_WHISTLING_LOOP01_edited.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>10.875520833333333</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{96a96245-c6d9-4c54-82a8-97d8b838dfef}</destination>
+		</relationship>
+	</object>
+</objects>

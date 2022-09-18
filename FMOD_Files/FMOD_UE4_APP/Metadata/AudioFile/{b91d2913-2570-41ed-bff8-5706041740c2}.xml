@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{b91d2913-2570-41ed-bff8-5706041740c2}">
+		<property name="assetPath">
+			<value>Tutorial Things/BIRD_APOSTLE_BIRD_CALL05_STEREO.WAV</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.97193750000000001</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{96a96245-c6d9-4c54-82a8-97d8b838dfef}</destination>
+		</relationship>
+	</object>
+</objects>

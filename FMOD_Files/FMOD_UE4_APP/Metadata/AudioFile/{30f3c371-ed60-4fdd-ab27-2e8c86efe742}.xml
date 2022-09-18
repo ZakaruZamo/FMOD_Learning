@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{30f3c371-ed60-4fdd-ab27-2e8c86efe742}">
+		<property name="assetPath">
+			<value>8-Bit/Impact/sfx_sounds_impact11.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.32990929705215422</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{96a96245-c6d9-4c54-82a8-97d8b838dfef}</destination>
+		</relationship>
+	</object>
+</objects>
