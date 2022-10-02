@@ -121,7 +121,7 @@
 			<value>6.3900000000000006</value>
 		</property>
 		<property name="length">
-			<value>38.450000000000081</value>
+			<value>38.415999999999997</value>
 		</property>
 		<relationship name="timeline">
 			<destination>{92cab925-9133-42a8-a959-de9b62aeec8c}</destination>
@@ -154,13 +154,13 @@
 	<object class="MixerBusFader" id="{ae13df92-8257-4db8-bfe3-31e6a57c5633}" />
 	<object class="AutomationPoint" id="{ca076d60-437c-4a21-8d66-5f2f6104eea6}">
 		<property name="position">
-			<value>44.789999999999999</value>
+			<value>44.829999999999998</value>
 		</property>
 		<property name="value">
 			<value>1</value>
 		</property>
 		<property name="curveShape">
-			<value>-0.457251459</value>
+			<value>-0.248913571</value>
 		</property>
 	</object>
 	<object class="AutomationPoint" id="{e186a439-b748-43c3-a99c-02146af56a48}">
